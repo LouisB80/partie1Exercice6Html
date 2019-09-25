@@ -1,0 +1,60 @@
+#main
+{
+  width:100%;
+  height:200px;
+}
+#square1
+{
+  background-color: mediumseagreen;
+  width: 100%;
+  height: 20%;
+  display: inline-block;
+  float: left;
+}
+#square2
+{
+  background-color: indianred;
+  width: 45%;
+  height: 40%;
+  display: inline-block;
+  float: left;
+}
+#square3
+{
+  background-color: chocolate;
+  width: 45%;
+  height: 20%;
+  display: inline-block;
+  float: left;
+}
+#square4
+{
+  background-color: lightgrey;
+  width: 10%;
+  height: 20%;
+  display: inline-block;
+  float: left;
+}
+#square5
+{
+  background-color: orange;
+  width: 25%;
+  height: 20%;
+  display: inline-block;
+  float: left;
+}
+#square6
+{
+  background-color: mediumaquamarine;
+  width: 30%;
+  height: 20%;
+  display: inline-block;
+  float: left;
+}
+#square7
+{
+  background-color: darkslategrey;
+  width: 100%;
+  height: 40%;
+  display: inline-block;
+}
